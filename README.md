@@ -7,4 +7,10 @@ Mitigating the risks of collisions in space using machine learning
 
  # Contributors
 
- 
+<table>
+<tbody>
+  <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://kentcdodds.com"><img src="https://avatars.githubusercontent.com/u/90529699?v=4" width="100px;" alt="Raymond Wong"/><br /><sub><b>Raymond Wong</b></sub></a><br /><a href="https://github.com/RaymondWKWong"
+    </tr>
+  </tbody>
+</table>
