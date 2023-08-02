@@ -1,6 +1,6 @@
 # 🚀 OrionHack - Hackathon 🛰️
 
-This our team's solution for OrionHack, a space themed hackathon. Awarded **Second Place 🥈**.
+This is our team's solution for OrionHack, a space themed hackathon. Awarded **Second Place**. 🥈
 
 Submitted by <a href="https://github.com/RaymondWKWong" target="_blank">Raymond Wong</a>, <a href="https://github.com/jh3021" target="_blank">Jimin Hong</a> and <a href="https://github.com/TIE666" target="_blank">Yuhao Li</a>.
 
