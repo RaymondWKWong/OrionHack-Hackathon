@@ -1,5 +1,8 @@
 # 🚀 OrionHack - Hackathon 🛰️
 
+This our team's solution for OrionHack, awarded **Second Place 🥈**. Submitted by <a href="https://github.com/RaymondWKWong" target="_blank">Raymond Wong</a>, <a href="https://github.com/jh3021" target="_blank">Jimin Hong</a> and <a href="[https://celestrak.org](https://github.com/TIE666)" target="_blank">Yuhao Li</a>. 
+
+# The Problem
 ### Mitigating the risks of collisions in space using machine learning.
 
 Over 27,000 pieces of mostly human made objects in the atmosphere. If collisions were to occur between objects, this could cascade into a chain reaction further generating more space debris, hence increases likelihood of further collisions. If such event occurs, this could cause catastrophic failure and limit areas of future space launches.
