@@ -24,9 +24,9 @@ The code visualisation uses live satellite data <a href="https://celestrak.org" 
 <table>
 <tbody>
   <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/RaymondWKWong"><img src="https://avatars.githubusercontent.com/u/90529699?v=4" width="100px;" alt="Raymond Wong"/><br /><sub><b>Raymond Wong</b></sub></a><br /><a href="https://github.com/RaymondWKWong"</tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/jh3021"><img src="https://avatars.githubusercontent.com/u/139482510?v=4" width="100px;" alt="Jimin Hong"/><br /><sub><b>Jimin Hong</b></sub></a><br /><a href="https://github.com/jh3021"</tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/TIE666"><img src="https://avatars.githubusercontent.com/u/47147482?v=4" width="100px;" alt="Yuhao Li"/><br /><sub><b>Yuhao Li</b></sub></a><br /><a href="https://github.com/TIE666"</tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/RaymondWKWong"><img src="https://avatars.githubusercontent.com/u/90529699?v=4" height="100px;" alt="Raymond Wong"/><br /><sub><b>Raymond Wong</b></sub></a><br /><a href="https://github.com/RaymondWKWong"</tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/jh3021"><img src="https://avatars.githubusercontent.com/u/139482510?v=4" height="100px;" alt="Jimin Hong"/><br /><sub><b>Jimin Hong</b></sub></a><br /><a href="https://github.com/jh3021"</tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/TIE666"><img src="https://avatars.githubusercontent.com/u/47147482?v=4" height="100px;" alt="Yuhao Li"/><br /><sub><b>Yuhao Li</b></sub></a><br /><a href="https://github.com/TIE666"</tr>
   </tr>
   </tbody>
 </table>
