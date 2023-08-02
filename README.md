@@ -1,5 +1,8 @@
 # 🚀 OrionHack - Hackathon 🛰️
-Mitigating the risks of collisions in space using machine learning
+
+### Mitigating the risks of collisions in space using machine learning.
+
+Project aims to focus on using machine learning to visualise and mitigate risks of collisions of two bodies. This can range from newly launched satellites to debris in orbit. LSTM machine learning model has been utilised to predict likelihood of such risks, trained on over 12,000 collision events with <a href="https://kelvins.esa.int/space-debris-the-origin/data/" target="_blank">Kelvins - European Space Agency's dataset</a>. Risks of collisions shown through colour visualisations, such that white denotes lower risks, whereas red denotes higher associated risks.
 
 <p align="center">
   <img src="https://github.com/RaymondWKWong/OrionHack-Hackathon/blob/main/Outputs/Collision%20Risk.gif?raw=true" width="75%" />
