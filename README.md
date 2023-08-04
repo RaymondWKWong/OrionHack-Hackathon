@@ -30,3 +30,8 @@ The code visualisation uses live data from <a href="https://celestrak.org" targe
   </tr>
   </tbody>
 </table>
+
+
+# License
+
+All source code is licensed under the MIT license.
